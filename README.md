@@ -1,14 +1,15 @@
 # 💫 About Me  
-I’m passionate about creating practical AI and data-driven solutions. My main focus is on building machine learning applications and deploying them into real-world systems.  
+I’m a **Software Engineer specializing in AI and Data Science**, with a focus on developing intelligent systems that bridge the gap between data and real-world applications. I enjoy building end-to-end solutions—from data preprocessing and modeling to deployment and visualization—that turn complex problems into actionable insights.  
 
 - Open to collaborate on AI/ML apps, data-driven dashboards, and open-source projects  
-- Currently learning more about Deep Learning, MLOps, and Cloud Deployment  
+- Currently learning more about Generative AI and Cloud Deployment  
 - Ask me about Machine Learning, Data Visualization, and Python Development  
 
 ---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-waleed-60806b265/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/omarwaleedz)  
 
 ---
 
