@@ -1,5 +1,5 @@
 # 💫 About Me  
-I’m a **Software Engineer specializing in AI and Data Science**, with a focus on developing intelligent systems that bridge the gap between data and real-world applications. I enjoy building end-to-end solutions—from data preprocessing and modeling to deployment and visualization—that turn complex problems into actionable insights.  
+I’m a **Software Engineer specializing in AI and Data Science**, with a focus on developing intelligent systems that bridge the gap between data and real-world applications. I enjoy building end-to-end solutions, from data preprocessing and modeling to deployment and visualization that turn complex problems into actionable insights.  
 
 - Open to collaborate on AI/ML apps, data-driven dashboards, and open-source projects  
 - Currently learning more about Generative AI and Cloud Deployment  
